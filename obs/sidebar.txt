@@ -20,7 +20,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Resources**
 
-  * [[af:obs:obs|Open Bible Stories (af)]]
+  * [[af:obs|Open Bible Stories (af)]]
 
 **Latest OBS Status**
 {{page>en:uwadmin:af:obs:status}}
